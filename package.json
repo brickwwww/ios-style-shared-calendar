@@ -1,0 +1,27 @@
+{
+  "name": "ios-style-shared-calendar",
+  "version": "1.0.0",
+  "description": "一个现代化的多用户共享日历应用，采用iOS风格设计",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8080",
+    "serve": "npx serve -p 8080",
+    "dev": "python -m http.server 8080"
+  },
+  "keywords": [
+    "calendar",
+    "ios-style",
+    "multi-user",
+    "shared",
+    "javascript",
+    "html5",
+    "css3"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/ios-style-shared-calendar.git"
+  },
+  "homepage": "https://yourusername.github.io/ios-style-shared-calendar/"
+}
